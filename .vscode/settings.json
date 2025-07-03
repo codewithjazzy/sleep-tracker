@@ -1,3 +1,9 @@
 {
-  "git.openRepositoryInParentFolders": "never"
+  "git.openRepositoryInParentFolders": "never",
+  "explorer.sortOrder": "default",
+  "explorer.sortOrderReverse": false,
+  "explorer.sortOrderLexicographicOptions": "default",
+  "explorer.fileNesting.enabled": false,
+  "explorer.fileNesting.expand": true,
+  "explorer.openEditors.sortOrder": "editorOrder"
 }
